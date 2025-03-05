@@ -1,4 +1,4 @@
-# ⚡ App Building Crash Course
+# ⚡ App Building
 
 In this tutorial we will go over a react app template and learn:
 * How to structure a React App
